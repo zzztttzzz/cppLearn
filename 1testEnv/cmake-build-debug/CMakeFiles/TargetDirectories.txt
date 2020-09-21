@@ -1,0 +1,3 @@
+D:/cppLearn/1testEnv/cmake-build-debug/CMakeFiles/1testEnv.dir
+D:/cppLearn/1testEnv/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/cppLearn/1testEnv/cmake-build-debug/CMakeFiles/rebuild_cache.dir
